@@ -1,6 +1,11 @@
 ### Hi there 👋, Md. Al-Amin
 #### Backend-Focused Full Stack Developer
-![Backend-Focused Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+## **About Me:**
+
+Hi, I am **Md.Al-AMIN**, a dedicated, passionate and self motivated Fullstack Web Developer. I am eager to learn new things for updating and spreading my knowledge. I want to work with any renowned team, company or organization and build up my career as a Software Engineer in the Computer Software Industry.
+
+##### [**Facebook**](https://web.facebook.com/profile.php?id=100003951763427) - [**Linkedin**](https://www.linkedin.com/in/md-al-amin-38827a128/) - [**Stackoverflow**](https://stackoverflow.com/users/8093787/md-al-amin) - [**Twitter**](https://twitter.com/mdalami18414685) - [**Telegram**](https://t.me/alamin_cse97) - [**Whatsapp**](https://wa.me/+8801830901641)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
