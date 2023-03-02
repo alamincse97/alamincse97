@@ -14,6 +14,7 @@ Skills: C/C++, JavaScript
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web-Development 
 
+Overall Activities Summary:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamincse97)  
 
