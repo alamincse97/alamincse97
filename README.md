@@ -14,8 +14,9 @@ Skills: C/C++, JavaScript
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web-Development 
 
-Overall Activities Summary:
+## **Overall Activities Summary:**
 
+<p width="100%">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamincse97)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamincse97)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,6 +27,7 @@ Overall Activities Summary:
 
 ![GitHub metrics](https://metrics.lecoq.io/alamincse97)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=alamincse97)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=alamincse97) 
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/alamincse97)  
