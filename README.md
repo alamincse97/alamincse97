@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **Developing a Ecommarce Site**
 
 - 🌱 I’m currently learning **System Design & Backend Engineering**
-- 
 ## **About Me:**
 
 Hi, I am **Md.Al-AMIN**, a dedicated, passionate and self motivated Backend Web Developer. I am eager to learn new things for updating and spreading my knowledge. I want to work with any renowned team, company or organization and build up my career as a Software Engineer in the Computer Software Industry.
